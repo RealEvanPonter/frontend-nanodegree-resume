@@ -1,0 +1,3 @@
+https://developers.google.com/maps/documentation/javascript/tutorial
+
+This video helped me realize to look in the console and see that "google was undefined", meaning that the google script wasn't being loaded into my page. Sure enough, the google script is originally commented out when students receive the file.
